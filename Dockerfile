@@ -1,4 +1,4 @@
-FROM nodejs:18
+FROM quay.io/nodejs:18
 
 WORKDIR /app
 
