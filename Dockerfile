@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM nodejs:18
 
 WORKDIR /app
 
