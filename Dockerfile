@@ -1,4 +1,4 @@
-FROM quay.io/nodejs:18
+FROM docker.io/node:18-alpine
 
 WORKDIR /app
 
